@@ -14,9 +14,9 @@ The Sunnyside Agency Landing Page project is designed to showcase the creative a
 
 ## Screenshots
 
-![Desktop/Laptop Screens](./screenshots/Sunnyside-1.png)
+![Desktop/Laptop Screens](./screenshots/Sunnyside-1.gif)
 
-![Mobile Screens](./screenshots/Sunnyside-2.png)
+![Mobile Screens](./screenshots/Sunnyside-2.gif)
 
 ## Setup
 
